@@ -4,11 +4,13 @@ using System.Collections;
 public class ControladorPersonaje : MonoBehaviour
 {
     private float tiempo;
+    private float velocidad = 1;
+    private EventLog log;
 
     // Use this for initialization
     void Start()
     {
-
+        log = GameObject.Find("UI").GetComponent<EventLog>();
     }
 
     // Update is called once per frame
@@ -19,19 +21,20 @@ public class ControladorPersonaje : MonoBehaviour
 
     void FixedUpdate()
     {
-        float desplazamiento = Input.GetAxis("Horizontal");
-        if (desplazamiento > 0)
+        if (Input.GetKeyDown(KeyCode.RightArrow))
         {
-            rigidbody2D.velocity = new Vector2(1, 0);
+            log.añadirEvento("<color=green>Mounstruo se mueve a la derecha</color>");
+            rigidbody2D.velocity = new Vector2(velocidad, 0);
             tiempo = 1;
-        } else if (desplazamiento < 0)
+        } else if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
-            rigidbody2D.velocity = new Vector2(-1, 0);
+            log.añadirEvento("<color=blue>Mounstruo se mueve a la izquierda</color>");
+            rigidbody2D.velocity = new Vector2(-velocidad, 0);
             tiempo = 1;
         }
         if (tiempo > 0)
         {
-            tiempo -= Time.deltaTime;
+            tiempo -= Time.fixedDeltaTime;
         } else
         {
             rigidbody2D.velocity = new Vector2(0, 0);
