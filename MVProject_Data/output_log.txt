@@ -11,7 +11,87 @@ Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\Un
 Loading C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/sqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/.\libsqlite3
+Fallback handler could not load library C:/Users/FuRioN/Documents/MVProject/MVProject_Data/Mono/libsqlite3
+DllNotFoundException: sqlite3
+  at (wrapper managed-to-native) Mono.Data.SqliteClient.Sqlite:sqlite3_open16 (string,intptr&)
+  at Mono.Data.SqliteClient.SqliteConnection.Open () [0x00000] in <filename unknown>:0 
+  at DAO.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Platform assembly: C:\Users\FuRioN\Documents\MVProject\MVProject_Data\Managed\System.Core.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at DAO.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

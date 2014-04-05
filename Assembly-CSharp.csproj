@@ -48,7 +48,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Camara.cs" />
      <Compile Include="Assets\Scripts\ControladorPersonaje.cs" />
+     <Compile Include="Assets\Scripts\DAO.cs" />
      <Compile Include="Assets\Scripts\EventLog.cs" />
+ <Reference Include="Mono.Data.SqliteClient">
+ <HintPath>Assets\Sqlite\Mono.Data.SqliteClient.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Data">
+ <HintPath>Assets\Sqlite\System.Data.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
