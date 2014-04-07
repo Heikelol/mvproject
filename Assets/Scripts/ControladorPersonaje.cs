@@ -6,11 +6,13 @@ public class ControladorPersonaje : MonoBehaviour
     private float tiempo;
     private float velocidad = 1;
     private EventLog log;
+    private Animator animator;
 
     // Use this for initialization
     void Start()
     {
         log = GameObject.Find("UI").GetComponent<EventLog>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -24,19 +26,25 @@ public class ControladorPersonaje : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.RightArrow))
         {
             log.añadirEvento("<color=green>Mounstruo se mueve a la derecha</color>");
-            rigidbody2D.velocity = new Vector2(velocidad, 0);
+            velocidad = 1;
             tiempo = 1;
+            transform.localRotation = new Quaternion(0,0,0,0);
+            animator.SetBool("moviendose", true);
         } else if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             log.añadirEvento("<color=blue>Mounstruo se mueve a la izquierda</color>");
-            rigidbody2D.velocity = new Vector2(-velocidad, 0);
+            velocidad = -1;
             tiempo = 1;
+            transform.localRotation = new Quaternion(0,180,0,0);
+            animator.SetBool("moviendose", true);
         }
         if (tiempo > 0)
         {
+            rigidbody2D.velocity = new Vector2(velocidad, 0);
             tiempo -= Time.fixedDeltaTime;
         } else
         {
+            animator.SetBool("moviendose", false);
             rigidbody2D.velocity = new Vector2(0, 0);
         }
     }
