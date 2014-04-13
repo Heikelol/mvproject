@@ -2,11 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControladorPersonaje.cs">
     <Files>
+      <File FileName="Assets\Scripts\ControladorPersonaje.cs" Line="30" Column="50" />
       <File FileName="Assets\Scripts\Camara.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\DAO.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\EventLog.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ControladorPersonaje.cs" Line="39" Column="50" />
-      <File FileName="Assets\ControladorNivel.cs" Line="28" Column="34" />
+      <File FileName="Assets\Scripts\EventLog.cs" Line="24" Column="1" />
+      <File FileName="Assets\Scripts\ControladorEnemigo.cs" Line="21" Column="33" />
+      <File FileName="Assets\Scripts\ControladorNivel.cs" Line="64" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

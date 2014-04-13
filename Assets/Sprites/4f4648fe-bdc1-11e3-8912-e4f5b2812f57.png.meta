@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5a6cc59cf1a781447b08c488fd93cd42
+guid: 34293201bf97edf44b42058dde0a509a
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -45,7 +45,7 @@ TextureImporter:
     compressionQuality: 50
   spriteSheet:
     sprites:
-    - name: mounstruo_0
+    - name: 4f4648fe-bdc1-11e3-8912-e4f5b2812f57_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +54,7 @@ TextureImporter:
         height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: mounstruo_1
+    - name: 4f4648fe-bdc1-11e3-8912-e4f5b2812f57_1
       rect:
         serializedVersion: 2
         x: 80
@@ -63,7 +63,7 @@ TextureImporter:
         height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: mounstruo_2
+    - name: 4f4648fe-bdc1-11e3-8912-e4f5b2812f57_2
       rect:
         serializedVersion: 2
         x: 160
@@ -72,7 +72,7 @@ TextureImporter:
         height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: mounstruo_3
+    - name: 4f4648fe-bdc1-11e3-8912-e4f5b2812f57_3
       rect:
         serializedVersion: 2
         x: 240
