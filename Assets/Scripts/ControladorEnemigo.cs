@@ -17,7 +17,7 @@ public class ControladorEnemigo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (vida < 0)
+        if (vida <= 0)
             Destroy(gameObject);
     }
 

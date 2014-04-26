@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Camara.cs" />
+     <Compile Include="Assets\Scripts\ControladorDisparo.cs" />
      <Compile Include="Assets\Scripts\ControladorEnemigo.cs" />
      <Compile Include="Assets\Scripts\ControladorNivel.cs" />
      <Compile Include="Assets\Scripts\ControladorPersonaje.cs" />
